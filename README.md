@@ -16,7 +16,7 @@ Estrutura do Projeto
 
 * **Biblioteca usada:**
 
-  * `PilhaStrings` – Biblioteca criada previamente por mim (), que fornece métodos `push()`, `pop()` e `isEmpty()` para manipulação de pilhas de Strings.
+  * `PilhaStrings` – Biblioteca criada previamente por mim (https://github.com/bianca-efs/Estudo.de.Pilhas_Criacao.de.biblioteca-String), que fornece métodos `push()`, `pop()` e `isEmpty()` para manipulação de pilhas de Strings.
 
 ---
 
